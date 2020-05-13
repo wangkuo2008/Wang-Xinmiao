@@ -1,6 +1,6 @@
-# 20M2211 Wang-Xinmiao
+# 20M12211 Wang-Xinmiao
 
 OpenMP
-12 pi
-13 merge sort
-14 bucket sort
+12_pi；
+13_merge_sort；
+14_bucket_sort
